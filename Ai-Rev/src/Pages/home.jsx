@@ -12,8 +12,8 @@ function Home() {
     <Navbar/>
     <main>
         <HeroSection/>
-        <AiBenefits/>
         <AiTypes/>
+        <AiBenefits/>
         <Contact/>
     </main>
     <Footer/>
