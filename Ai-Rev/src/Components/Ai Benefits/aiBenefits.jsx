@@ -102,7 +102,7 @@ function AiBenefits() {
     return (
         <section 
         className="app-container py-16 bg-linear-to-br from-dark to-gray-900 rounded-3xl text-white"
-        id="benfites">
+        id="benefits">
             <div className="text-center mb-12">
                 <span className="section-subheader">AI Benefites</span>
                 <h2 className="section-header">
